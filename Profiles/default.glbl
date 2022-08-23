@@ -4,4 +4,24 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Fornt end URL</description>
+      <initValue>'https://npsauction.ecommerce.auction/'</initValue>
+      <name>Front_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User able to enter the First name</description>
+      <initValue>'Riyaz'</initValue>
+      <name>First_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User able to enter the Last Name</description>
+      <initValue>'Tester'</initValue>
+      <name>Last_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User able to enter the Email address</description>
+      <initValue>'abdul.auctionsoftware+auto1@gmail.com'</initValue>
+      <name>Email_Address</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

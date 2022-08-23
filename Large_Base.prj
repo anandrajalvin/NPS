@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>large</name>
+   <name>Large_Base</name>
    <tag></tag>
-   <UUID>bb9c7a0a-50f3-4c39-a4e4-67a8f17f62b9</UUID>
+   <UUID>0dabda46-4da5-4de7-9d06-723701ab012d</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\User\git\Test-Res\Large_Base.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +26,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>851cf103-6a9e-4c44-b9c3-571a941c64c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;30197368 Secteur-6 A1st01 Glitch Flower Shorts&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div[3]/div[2]/div[2]/div[3]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1bc6033f-feb6-40f8-833d-dd5dafabfc69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn-listing.thenpsenterprise.com/listing/93AFC0A6-C8C6-4BA3-82B9-1986ACC748E9-27791627_0099.jpg</value>
+      <webElementGuid>62b5c656-d206-47ac-9180-9e58f191744d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>30197368 Secteur-6 A1st01 Glitch Flower Shorts</value>
+      <webElementGuid>7b939785-2703-4d04-bb26-43989ca7269d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;search customContainer&quot;]/div[@class=&quot;searchCnt d-flex justify-content-start align-items-start&quot;]/div[@class=&quot;searchRt&quot;]/div[@class=&quot;searchResults Grid&quot;]/div[@class=&quot;productCardGrid&quot;]/div[@class=&quot;pcgImg&quot;]/img[1]</value>
+      <webElementGuid>57365c6f-5b76-4087-a7d1-28b49a3e6398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[3]/div[2]/div[2]/div[3]/div/img</value>
+      <webElementGuid>1a85d12c-dfb4-42fb-afd4-b36d1c370a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='30197368 Secteur-6 A1st01 Glitch Flower Shorts']</value>
+      <webElementGuid>11d95679-b80f-4642-aebc-242969e46c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>3c104d01-e6a9-4316-a11b-cd48120257cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn-listing.thenpsenterprise.com/listing/93AFC0A6-C8C6-4BA3-82B9-1986ACC748E9-27791627_0099.jpg' and @alt = '30197368 Secteur-6 A1st01 Glitch Flower Shorts']</value>
+      <webElementGuid>bb74f6e2-c7f6-494f-9725-e712063056f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

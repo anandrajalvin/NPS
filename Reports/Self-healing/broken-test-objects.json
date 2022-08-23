@@ -1,3 +1,54 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Buyer register Inputs/Page_AuctionSoftware- Large/input_Enter your first name_first_name",
+      "brokenLocator": "//input[@name\u003d\u0027first_name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Buyer register Inputs/Page_AuctionSoftware- Large/input_Enter your first name_first_name_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Buyer register Inputs/Page_AuctionSoftware- Large/input_Enter your last name_last_name",
+      "brokenLocator": "//input[@name\u003d\u0027last_name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Buyer register Inputs/Page_AuctionSoftware- Large/input_Enter your last name_last_name_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Toast Messgae/Toast_Message",
+      "brokenLocator": "//div[@id\u003d\u0027notistack-snackbar\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Toast Messgae/Toast_Message_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Button/Page_AuctionSoftware- Large/Login_btn",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/header/div/div[2]/div/ul[2]/li/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Login\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Button/Page_AuctionSoftware- Large/Login_btn_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Button/Page_AuctionSoftware- Large/span_login",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/form/div[3]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Password\u0027])[2]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Button/Page_AuctionSoftware- Large/span_login_neighbor.png"
+    }
+  ]
 }
